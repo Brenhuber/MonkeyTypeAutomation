@@ -1,4 +1,4 @@
-<h1 align="center">⌨️ Monkeytype Chatbot</h1>
+<h1 align="center">⌨️ MonkeyType Analysis Chatbot</h1>
 <p align="center"><em>Analyze and chat with your typing performance data</em></p>
 
 ---
@@ -54,3 +54,4 @@ python orchestration/check_and_clean.py
 
 # 5. Run the chatbot app
 python app.py
+
